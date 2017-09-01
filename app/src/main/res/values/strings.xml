@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="title_activity_ingredient_step">IngredientStep</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="error_message">Error connecting to server</string>
+    <string name="retry">Retry</string>
+    <string name="welcome_text">Welcome\n What would you want to Prepare? </string>
+    <string name="description">Description</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="temp_step_description">Step Description would appear here</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">RECIPE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="default_widget_recipe">Unavailable</string>
+
+    <!-- String resource for shared preferences -->
+    <string name="recipe_name">RECIPE_NAME</string>
+    <string name="recipe_ingredient_string">INGREDIENT</string>
+    <string name="recipe_step_number">STEP_NUMBER</string>
+
+</resources>

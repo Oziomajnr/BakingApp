@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ogbeoziomajnr.bakingapp.Fragment.StepsFragment">
+
+
+    <!--this is  a place holder for the child fragment since nesting fragments has limited support-->
+
+    <FrameLayout
+        android:id="@+id/child_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="200dp"
+        tools:layout="@layout/fragment_step_details"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true">
+
+    </FrameLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_step"
+        android:layout_width="200dp"
+        android:layout_marginTop="100dp"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:foregroundGravity="center"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <!-- this is a dummy view just to help detect if the device is in landscape or or not-->
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/fake_landscape_marker"
+        />
+</RelativeLayout>
