@@ -20,10 +20,10 @@ Clone the repository and open with android studio, update your gradle plug in if
 -----------
 
   
-			![1](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upM0dNQXRSZVZMSWM)
-			![2](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upNkxmQUpoVW1XQlk)
-			![3](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upU3NPeGVpYVZ4UFk)
-			![4](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upbDNwdjRGaU1Ha3M)
+			![1](images/m1.png?raw=true "")
+			![2](images/m2.png?raw=true "Title"))
+			![3](images/m3.png?raw=true "Title"))
+			![4](images/m4.png?raw=true "Title"))
 
 
 	
@@ -31,10 +31,10 @@ Clone the repository and open with android studio, update your gradle plug in if
 -----------
 
   
-			![1](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upQ29pSWpEbWtpRTA)
-			![2](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upbE9BY21vQ3FaVlU)
-			![3](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upQUYzcGNGX0NTSG8)
-			![4](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4updWdtSU9SMEtVMDg)	
+			![1](images/t1.png?raw=true "Title"))
+			![2](images/t2.png?raw=true "Title"))
+			![3](images/t3.png?raw=true "Title"))
+			![4](images/t4.png?raw=true "Title"))	
 
 
 
