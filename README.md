@@ -19,10 +19,10 @@ Clone the repository and open with android studio, update your gradle plug in if
 ![mobile view 3](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/m3.jpeg)
 ![mobile view 4](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/m4.jpeg)
 
-![tablet view 1](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t1.jpeg)
-![tablet view 2](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t2.jpeg)
-![tablet view 3](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t3.jpeg)
-![tablet view 4](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t4.jpeg)
+![tablet view 1](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t1.png)
+![tablet view 2](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t2.png)
+![tablet view 3](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t3.png)
+![tablet view 4](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/t4.png)
   
 			
 			
