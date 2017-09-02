@@ -20,8 +20,8 @@ Clone the repository and open with android studio, update your gradle plug in if
 -----------
 
   
-			![1](https://raw.github.com/Oziomajnr/BakingApp/master/images/m1.png)
-			![2](images/m2.png?raw=true "Title"))
+			![1](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/m1.jpeg)
+			![2](images/m2.jpeg?raw=true "mobile2"))
 			![3](images/m3.png?raw=true "Title"))
 			![4](images/m4.png?raw=true "Title"))
 
