@@ -1,4 +1,4 @@
-#Udacity Baking App
+Udacity Baking App
 ===================
 
 
@@ -20,10 +20,10 @@ Clone the repository and open with android studio, update your gradle plug in if
 -----------
 
   
-			![1](https://drive.google.com/open?id=0BzDjBU7aN4upM0dNQXRSZVZMSWM)
-			![2](https://drive.google.com/open?id=0BzDjBU7aN4upNkxmQUpoVW1XQlk)
-			![3](https://drive.google.com/open?id=0BzDjBU7aN4upU3NPeGVpYVZ4UFk)
-			![4](https://drive.google.com/open?id=0BzDjBU7aN4upbDNwdjRGaU1Ha3M)
+			![1](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upM0dNQXRSZVZMSWM)
+			![2](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upNkxmQUpoVW1XQlk)
+			![3](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upU3NPeGVpYVZ4UFk)
+			![4](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upbDNwdjRGaU1Ha3M)
 
 
 	
@@ -31,7 +31,11 @@ Clone the repository and open with android studio, update your gradle plug in if
 -----------
 
   
-			![1](https://drive.google.com/open?id=0BzDjBU7aN4upQ29pSWpEbWtpRTA)
-			![2](https://drive.google.com/open?id=0BzDjBU7aN4upbE9BY21vQ3FaVlU)
-			![3](https://drive.google.com/open?id=0BzDjBU7aN4upQUYzcGNGX0NTSG8)
-			![4](https://drive.google.com/open?id=0BzDjBU7aN4updWdtSU9SMEtVMDg)	
+			![1](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upQ29pSWpEbWtpRTA)
+			![2](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upbE9BY21vQ3FaVlU)
+			![3](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4upQUYzcGNGX0NTSG8)
+			![4](https://docs.google.com/uc?export=download&id=0BzDjBU7aN4updWdtSU9SMEtVMDg)	
+
+
+
+
