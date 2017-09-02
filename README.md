@@ -13,8 +13,9 @@ How to use
 Clone the repository and open with android studio, update your gradle plug in if it is not up to date and then build and run ob ab android device or emulator.
 
 
+![mobile view 1](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/m1.jpeg)
   
-			![mobile view 1](https://raw.githubusercontent.com/Oziomajnr/BakingApp/master/images/m1.jpeg)
+			
 			
 
 
